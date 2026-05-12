@@ -11,9 +11,7 @@
 | | |
 |---|---|
 | **KELOMPOK** | [C] |
-| **NAMA KELOMPOK** | [AZRIL
-                       RAFAEL
-                       ARYA  ] |
+| **NAMA KELOMPOK** | [AZRIL,RAFAEL,ARYA  ] |
 | **Kelas** | [XI PPLG] |
 | **Program Studi** | [PROJECT AKHIR PERIODE MAGANG] |
 
